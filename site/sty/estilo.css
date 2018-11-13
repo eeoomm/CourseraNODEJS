@@ -1,0 +1,35 @@
+.hombre {
+	color : blue;
+}
+#SUB1{
+	list-style: none;
+}
+
+
+.mujer {
+	color : #F55CE9;
+}
+
+
+#SUB2{
+	list-style: none;
+}
+
+a:link, a:visited {
+	
+	text-decoration: none;
+	background-color: #FFFEFF;
+	border: 1px solid #FFC300;
+	color:#6B0800;
+	display: block;
+	width: 150px;
+	text-align: center;
+	margin-bottom: 2px;
+}
+
+a:hover, a:active{
+	background-color: #FFFEFF;
+	color: black;
+	border: 1px solid black;
+}
+
