@@ -1,1 +1,15 @@
-pantalon.css
+body {
+	background-color: orange;
+}
+
+#box {
+	background-color: green;
+}
+
+#content {
+	background-color: white; 
+}
+
+h1 {
+	margin-bottom: 30px;
+}
