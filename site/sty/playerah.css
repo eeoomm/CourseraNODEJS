@@ -1,4 +1,13 @@
 #bg {
 	width: 500px;
 	height: 500px;
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-w5lsm7HJcsiFj8slb3K5fUwvxZHuG1PZjw0SXZlxBHuaDKGJ) no-repeat
+	right bottom #FFE7D3;
+	/*
+	##### Codigo por separado #####
+	background-color: #FFE7D3;
+	background-image:  url("https://media.giphy.com/media/l3vQWvLXw74jemGoU/giphy.gif");
+	background-image:  url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-w5lsm7HJcsiFj8slb3K5fUwvxZHuG1PZjw0SXZlxBHuaDKGJ");
+	background-repeat: no-repeat;
+	background-position: bottom;*/
 }
