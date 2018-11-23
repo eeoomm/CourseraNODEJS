@@ -10,10 +10,12 @@ body {
 }
 #box {
 	background-color: #7D99DB;
-	padding: 5px 5px 5px 5px;
+	padding: 5px;
 	border: 1px solid black;
 	margin-top: 40px;
 	width: 200px;
+	height: 100px;
+	overflow: scroll;
 }
 
 #content {
